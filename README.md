@@ -20,11 +20,17 @@ Extrair e analisar os **100 perfis brasileiros** que mais cresceram em seguidore
 ## 🛠️ Como Usar
 
 ### 1. Clone o Repositório
+
 git clone https://github.com/KaaioH013/relatorio_social_blade.git
-cd relatorio_social_blade.git
+
+cd relatorio_social_blade
 
 ### 2. Execute o Script
+
+python gerador_relatorio.py
+
 O script funciona sem dependências externas no modo de simulação.
+
 
 ### 3. Resultado
 Após a execução, o arquivo `relatorio_instagram.csv` será criado na pasta do projeto com os 100 perfis que mais cresceram.
